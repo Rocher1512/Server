@@ -1,0 +1,22 @@
+06/02/2020 10:40:42.79 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 1 advisory, 7 failed (of 17 total). 
+10/02/2020 12:40:58.60 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 0 advisory, 7 failed (of 17 total). 
+13/02/2020  9:08:56.50 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 0 advisory, 7 failed (of 17 total). 
+13/02/2020  9:12:25.77 All tests of whois.net.dcs.hull.ac.uk completed: 3 passed, 0 advisory, 5 failed (of 17 total). 
+13/02/2020  9:14:53.96 All tests of whois.net.dcs.hull.ac.uk completed: 3 passed, 0 advisory, 5 failed (of 17 total). 
+13/02/2020  9:18:20.13 All tests of whois.net.dcs.hull.ac.uk completed: 4 passed, 0 advisory, 4 failed (of 17 total). 
+13/02/2020  9:27:53.03 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020  9:29:41.31 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020  9:30:51.50 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020  9:39:25.48 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020  9:47:03.87 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020  9:53:26.92 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020  9:58:17.71 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020 10:04:45.94 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020 10:07:59.55 All tests of whois.net.dcs.hull.ac.uk completed: 13 passed, 3 advisory, 0 failed (of 17 total). 
+13/02/2020 10:26:51.06 All tests of whois.net.dcs.hull.ac.uk completed: 13 passed, 3 advisory, 0 failed (of 17 total). 
+13/02/2020 10:32:16.14 All tests of whois.net.dcs.hull.ac.uk completed: 13 passed, 3 advisory, 0 failed (of 17 total). 
+13/02/2020 10:37:30.32 All tests of whois.net.dcs.hull.ac.uk completed: 8 passed, 0 advisory, 0 failed (of 17 total). 
+Lab2Test can be signed off for SAM CRERAR (579952) at 13/02/2020 10:37:33.73 on FEN-052-053 
+28/02/2020 13:35:32.48 All tests of whois.net.dcs.hull.ac.uk completed: 13 passed, 3 advisory, 0 failed (of 16 total). 
+28/02/2020 14:06:40.19 All tests of whois.net.dcs.hull.ac.uk completed: 13 passed, 3 advisory, 0 failed (of 16 total). 
+28/02/2020 14:10:56.60 All tests of whois.net.dcs.hull.ac.uk completed: 14 passed, 2 advisory, 0 failed (of 16 total). 

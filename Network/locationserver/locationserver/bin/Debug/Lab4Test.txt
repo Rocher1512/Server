@@ -1,0 +1,7 @@
+28/02/2020 15:56:01.49 All tests of whois.net.dcs.hull.ac.uk completed: 154 passed, 12 advisory, 0 failed (of 168 total). 
+28/02/2020 16:04:47.45 All tests of whois.net.dcs.hull.ac.uk completed: 14 passed, 1 advisory, 3 failed (of 168 total). 
+28/02/2020 16:21:56.20 All tests completed: 9 passed, 0 advisory, 2 failed. 
+28/02/2020 16:25:41.57 All tests of whois.net.dcs.hull.ac.uk completed: 14 passed, 1 advisory, 3 failed (of 168 total). 
+28/02/2020 16:29:26.19 All tests of whois.net.dcs.hull.ac.uk completed: 14 passed, 1 advisory, 3 failed (of 168 total). 
+28/02/2020 16:32:04.78 All tests of whois.net.dcs.hull.ac.uk completed: 16 passed, 0 advisory, 2 failed (of 168 total). 
+04/03/2020 10:41:13.81 All tests completed: 9 passed, 0 advisory, 2 failed. 
